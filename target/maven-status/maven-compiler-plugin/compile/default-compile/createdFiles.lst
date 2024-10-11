@@ -1,0 +1,9 @@
+com\FranDev\ProyectoCine\servicios\almacenServicio.class
+com\FranDev\ProyectoCine\excepciones\almacenExcepcion.class
+com\FranDev\ProyectoCine\repositorios\peliculaRepositorio.class
+com\FranDev\ProyectoCine\excepciones\FileNotFoundException.class
+com\FranDev\ProyectoCine\repositorios\generoRepositorio.class
+com\FranDev\ProyectoCine\modelos\pelicula.class
+com\FranDev\ProyectoCine\servicios\almacenServicioImpl.class
+com\FranDev\ProyectoCine\ProyectoCineApplication.class
+com\FranDev\ProyectoCine\modelos\genero.class
